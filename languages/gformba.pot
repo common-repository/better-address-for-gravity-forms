@@ -1,0 +1,270 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Better Address for Gravity Forms\n"
+"POT-Creation-Date: 2019-08-28 11:38+0800\n"
+"PO-Revision-Date: 2019-08-28 11:36+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: gravity-forms-better-address.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-better-address-gravity-forms.php:51
+msgid "Enabled for"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:52
+msgid "Select the countries you would like to enable."
+msgstr ""
+
+#: class-better-address-gravity-forms.php:55
+msgid "Argentinian Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:60
+msgid "Angolan Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:65
+msgid "Australian States"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:70
+msgid "Bangladesh Districts"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:75
+msgid "Bolivian Departments"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:80
+msgid "Brazilian States"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:85
+msgid "British Countries"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:90
+msgid "Bulgarian Districts"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:95
+msgid "Chinese Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:100
+msgid "Greek Administrations"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:105
+msgid "Hong Kong Districts"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:110
+msgid "Hungarian Counties"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:115
+msgid "Indian States"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:120
+msgid "Indonesian Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:125
+msgid "Iranian Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:130
+msgid "Irish Countries"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:135
+msgid "Italian Regions"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:140
+msgid "Japanese Prefectures"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:145
+msgid "Liberian Countries"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:150
+msgid "Malay States"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:155
+msgid "Mexican States"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:160
+msgid "Moldovan Districts"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:165
+msgid "Nepalis Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:170
+msgid "Netherlands Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:175
+msgid "New Zealand Regions"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:180
+msgid "Nigerian States"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:185
+msgid "Pakistanis Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:190
+msgid "Paraguayan Departments"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:195
+msgid "Peruvian Regions"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:200
+msgid "Philippines Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:205
+msgid "Romanian Counties"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:210
+msgid "South African Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:215
+msgid "Spanish Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:220
+msgid "Swiss Cantons"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:225
+msgid "Tanzanian Regions"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:230
+msgid "Thai Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:235
+msgid "Turkish Provinces"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:244
+msgid "Show code intead of name"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:245
+msgid ""
+"When receiving an email, all states, provinces, countries etc will show the "
+"code instead of the name. For example: NY instead of New York."
+msgstr ""
+
+#: class-better-address-gravity-forms.php:248
+msgid "Yes"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:257
+msgid "License key"
+msgstr ""
+
+#: class-better-address-gravity-forms.php:260
+msgid "Find your license key by logging in at rocketapps.com.au."
+msgstr ""
+
+#: gravity-forms-better-address.php:69
+msgid "Your license is valid."
+msgstr ""
+
+#: gravity-forms-better-address.php:84
+msgid "Please enter your license key below."
+msgstr ""
+
+#: plugin-updates/Puc/v4p7/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: plugin-updates/Puc/v4p7/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: plugin-updates/Puc/v4p7/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: plugin-updates/Puc/v4p7/Plugin/Ui.php:213
+#, php-format
+msgctxt "Better Address for Gravity Forms"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: plugin-updates/Puc/v4p7/Plugin/Ui.php:215
+#, php-format
+msgctxt "Better Address for Gravity Forms"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: plugin-updates/Puc/v4p7/Plugin/Ui.php:217
+#, php-format
+msgctxt "Better Address for Gravity Forms"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: plugin-updates/Puc/v4p7/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: plugin-updates/Puc/v4p7/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Better Address for Gravity Forms"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://rocketapps.com.au/product/states-provinces-for-gravity-forms"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily include States, Provinces, Regions and more into the address fields "
+"in Gravity Forms."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rocket Apps"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rocketapps.com.au/"
+msgstr ""
